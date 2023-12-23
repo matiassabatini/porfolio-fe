@@ -1,0 +1,4333 @@
+[
+    {
+        "id": 13,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3462,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 579163.03,
+                "porcentaje": 98.62,
+                "cantidadOperaciones": 108,
+                "fecha": 1698796800000
+            },
+            {
+                "id": 3463,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 8100,
+                "porcentaje": 1.38,
+                "cantidadOperaciones": 1,
+                "fecha": 1698796800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5861,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 18635,
+                "porcentaje": 3.17,
+                "cantidadOperaciones": 0,
+                "fecha": 1698796800000
+            },
+            {
+                "id": 5862,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 250149.03,
+                "porcentaje": 42.6,
+                "cantidadOperaciones": 0,
+                "fecha": 1698796800000
+            },
+            {
+                "id": 5863,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 181463,
+                "porcentaje": 30.9,
+                "cantidadOperaciones": 0,
+                "fecha": 1698796800000
+            },
+            {
+                "id": 5864,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 137015.99,
+                "porcentaje": 23.33,
+                "cantidadOperaciones": 0,
+                "fecha": 1698796800000
+            }
+        ],
+        "fecha": "01/11/2023 00:00:00",
+        "totalVentaConIva": 587263.03,
+        "totalVentaSinIva": 485343.82,
+        "cantUnidadesVendidas": 282,
+        "cantkgVendidos": 44.86,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 109,
+        "cod": 1,
+        "ticketPromedioTotal": 5387.73,
+        "ticketPromedioCantItems": 3.04
+    },
+    {
+        "id": 14,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3464,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 233713.03,
+                "porcentaje": 100,
+                "cantidadOperaciones": 65,
+                "fecha": 1698796800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5865,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 229713.03,
+                "porcentaje": 98.29,
+                "cantidadOperaciones": 0,
+                "fecha": 1698796800000
+            },
+            {
+                "id": 5866,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 4000,
+                "porcentaje": 1.71,
+                "cantidadOperaciones": 0,
+                "fecha": 1698796800000
+            }
+        ],
+        "fecha": "01/11/2023 00:00:00",
+        "totalVentaConIva": 233713.03,
+        "totalVentaSinIva": 193152.39,
+        "cantUnidadesVendidas": 138,
+        "cantkgVendidos": 18.17,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 65,
+        "cod": 2,
+        "ticketPromedioTotal": 3595.59,
+        "ticketPromedioCantItems": 2.12
+    },
+    {
+        "id": 15,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3465,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 490171.64,
+                "porcentaje": 96.51,
+                "cantidadOperaciones": 71,
+                "fecha": 1698883200000
+            },
+            {
+                "id": 3466,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 17737.5,
+                "porcentaje": 3.49,
+                "cantidadOperaciones": 1,
+                "fecha": 1698883200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5867,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 224159.49,
+                "porcentaje": 44.13,
+                "cantidadOperaciones": 0,
+                "fecha": 1698883200000
+            },
+            {
+                "id": 5868,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 140329.06,
+                "porcentaje": 27.63,
+                "cantidadOperaciones": 0,
+                "fecha": 1698883200000
+            },
+            {
+                "id": 5869,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 143420.59,
+                "porcentaje": 28.24,
+                "cantidadOperaciones": 0,
+                "fecha": 1698883200000
+            }
+        ],
+        "fecha": "02/11/2023 00:00:00",
+        "totalVentaConIva": 507909.14,
+        "totalVentaSinIva": 419758.67,
+        "cantUnidadesVendidas": 249.1,
+        "cantkgVendidos": 26.14,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 72,
+        "cod": 1,
+        "ticketPromedioTotal": 7054.29,
+        "ticketPromedioCantItems": 3.69
+    },
+    {
+        "id": 16,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3467,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 94362,
+                "porcentaje": 100,
+                "cantidadOperaciones": 34,
+                "fecha": 1698883200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5870,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 93162,
+                "porcentaje": 98.73,
+                "cantidadOperaciones": 0,
+                "fecha": 1698883200000
+            },
+            {
+                "id": 5871,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 1200,
+                "porcentaje": 1.27,
+                "cantidadOperaciones": 0,
+                "fecha": 1698883200000
+            }
+        ],
+        "fecha": "02/11/2023 00:00:00",
+        "totalVentaConIva": 94362,
+        "totalVentaSinIva": 77985.05,
+        "cantUnidadesVendidas": 54,
+        "cantkgVendidos": 7.99,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 34,
+        "cod": 2,
+        "ticketPromedioTotal": 2775.35,
+        "ticketPromedioCantItems": 1.68
+    },
+    {
+        "id": 17,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3468,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 689727.04,
+                "porcentaje": 98.81,
+                "cantidadOperaciones": 113,
+                "fecha": 1698969600000
+            },
+            {
+                "id": 3469,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 8288,
+                "porcentaje": 1.19,
+                "cantidadOperaciones": 3,
+                "fecha": 1698969600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5872,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 81641,
+                "porcentaje": 11.7,
+                "cantidadOperaciones": 0,
+                "fecha": 1698969600000
+            },
+            {
+                "id": 5873,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 317687.97,
+                "porcentaje": 45.51,
+                "cantidadOperaciones": 0,
+                "fecha": 1698969600000
+            },
+            {
+                "id": 5874,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 120800.09,
+                "porcentaje": 17.31,
+                "cantidadOperaciones": 0,
+                "fecha": 1698969600000
+            },
+            {
+                "id": 5875,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 177885.98,
+                "porcentaje": 25.48,
+                "cantidadOperaciones": 0,
+                "fecha": 1698969600000
+            }
+        ],
+        "fecha": "03/11/2023 00:00:00",
+        "totalVentaConIva": 698015.04,
+        "totalVentaSinIva": 576871.67,
+        "cantUnidadesVendidas": 306,
+        "cantkgVendidos": 37.57,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 116,
+        "cod": 1,
+        "ticketPromedioTotal": 6017.37,
+        "ticketPromedioCantItems": 2.96
+    },
+    {
+        "id": 18,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3470,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 154490.01,
+                "porcentaje": 100,
+                "cantidadOperaciones": 61,
+                "fecha": 1698969600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5876,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 154490.02,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1698969600000
+            }
+        ],
+        "fecha": "03/11/2023 00:00:00",
+        "totalVentaConIva": 154490.01,
+        "totalVentaSinIva": 127678.88,
+        "cantUnidadesVendidas": 93,
+        "cantkgVendidos": 12.13,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 61,
+        "cod": 2,
+        "ticketPromedioTotal": 2532.62,
+        "ticketPromedioCantItems": 1.8
+    },
+    {
+        "id": 19,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3471,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 720722.69,
+                "porcentaje": 100.39,
+                "cantidadOperaciones": 112,
+                "fecha": 1699056000000
+            },
+            {
+                "id": 3472,
+                "comprobante": {
+                    "id": 12,
+                    "nombre": "nota de credito b",
+                    "codigo": "nota de credito b"
+                },
+                "total": -2775,
+                "porcentaje": -0.39,
+                "cantidadOperaciones": 1,
+                "fecha": 1699056000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5877,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 5000,
+                "porcentaje": 0.7,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            },
+            {
+                "id": 5878,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 295263.42,
+                "porcentaje": 41.13,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            },
+            {
+                "id": 5879,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 204670.5,
+                "porcentaje": 28.51,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            },
+            {
+                "id": 5880,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 215788.77,
+                "porcentaje": 30.06,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            },
+            {
+                "id": 5881,
+                "medioPago": {
+                    "id": 7,
+                    "nombre": "cuenta corriente",
+                    "codigo": "3",
+                    "idSystem": 0
+                },
+                "total": -2775,
+                "porcentaje": -0.39,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            }
+        ],
+        "fecha": "04/11/2023 00:00:00",
+        "totalVentaConIva": 717947.69,
+        "totalVentaSinIva": 593343.9,
+        "cantUnidadesVendidas": 377,
+        "cantkgVendidos": 31.08,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 113,
+        "cod": 1,
+        "ticketPromedioTotal": 6353.52,
+        "ticketPromedioCantItems": 3.27
+    },
+    {
+        "id": 20,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3473,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 132961.26,
+                "porcentaje": 100,
+                "cantidadOperaciones": 50,
+                "fecha": 1699056000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5882,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 131961.26,
+                "porcentaje": 99.25,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            },
+            {
+                "id": 5883,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 1000,
+                "porcentaje": 0.75,
+                "cantidadOperaciones": 0,
+                "fecha": 1699056000000
+            }
+        ],
+        "fecha": "04/11/2023 00:00:00",
+        "totalVentaConIva": 132961.26,
+        "totalVentaSinIva": 109886.42,
+        "cantUnidadesVendidas": 76,
+        "cantkgVendidos": 10.35,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 50,
+        "cod": 2,
+        "ticketPromedioTotal": 2659.23,
+        "ticketPromedioCantItems": 1.76
+    },
+    {
+        "id": 21,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3474,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 272905.9,
+                "porcentaje": 96.31,
+                "cantidadOperaciones": 65,
+                "fecha": 1699142400000
+            },
+            {
+                "id": 3475,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 10450,
+                "porcentaje": 3.69,
+                "cantidadOperaciones": 1,
+                "fecha": 1699142400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5884,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 11985,
+                "porcentaje": 4.23,
+                "cantidadOperaciones": 0,
+                "fecha": 1699142400000
+            },
+            {
+                "id": 5885,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 115222.9,
+                "porcentaje": 40.66,
+                "cantidadOperaciones": 0,
+                "fecha": 1699142400000
+            },
+            {
+                "id": 5886,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 58490,
+                "porcentaje": 20.64,
+                "cantidadOperaciones": 0,
+                "fecha": 1699142400000
+            },
+            {
+                "id": 5887,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 97658,
+                "porcentaje": 34.46,
+                "cantidadOperaciones": 0,
+                "fecha": 1699142400000
+            }
+        ],
+        "fecha": "05/11/2023 00:00:00",
+        "totalVentaConIva": 283355.9,
+        "totalVentaSinIva": 234178.48,
+        "cantUnidadesVendidas": 139,
+        "cantkgVendidos": 20.6,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 66,
+        "cod": 1,
+        "ticketPromedioTotal": 4293.27,
+        "ticketPromedioCantItems": 2.68
+    },
+    {
+        "id": 22,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3476,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 175665.4,
+                "porcentaje": 100,
+                "cantidadOperaciones": 36,
+                "fecha": 1699142400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5888,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 174405.39,
+                "porcentaje": 99.28,
+                "cantidadOperaciones": 0,
+                "fecha": 1699142400000
+            },
+            {
+                "id": 5889,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 1260,
+                "porcentaje": 0.72,
+                "cantidadOperaciones": 0,
+                "fecha": 1699142400000
+            }
+        ],
+        "fecha": "05/11/2023 00:00:00",
+        "totalVentaConIva": 175665.4,
+        "totalVentaSinIva": 145178.53,
+        "cantUnidadesVendidas": 93,
+        "cantkgVendidos": 10.48,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 36,
+        "cod": 2,
+        "ticketPromedioTotal": 4879.59,
+        "ticketPromedioCantItems": 2.89
+    },
+    {
+        "id": 1353,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3477,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 517330.01,
+                "porcentaje": 97.68,
+                "cantidadOperaciones": 105,
+                "fecha": 1699228800000
+            },
+            {
+                "id": 3478,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 12300,
+                "porcentaje": 2.32,
+                "cantidadOperaciones": 2,
+                "fecha": 1699228800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5890,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 14270,
+                "porcentaje": 2.69,
+                "cantidadOperaciones": 0,
+                "fecha": 1699228800000
+            },
+            {
+                "id": 5891,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 243499,
+                "porcentaje": 45.98,
+                "cantidadOperaciones": 0,
+                "fecha": 1699228800000
+            },
+            {
+                "id": 5892,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 98515,
+                "porcentaje": 18.6,
+                "cantidadOperaciones": 0,
+                "fecha": 1699228800000
+            },
+            {
+                "id": 5893,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 173346,
+                "porcentaje": 32.73,
+                "cantidadOperaciones": 0,
+                "fecha": 1699228800000
+            }
+        ],
+        "fecha": "06/11/2023 00:00:00",
+        "totalVentaConIva": 529630.01,
+        "totalVentaSinIva": 437709.54,
+        "cantUnidadesVendidas": 262,
+        "cantkgVendidos": 36.94,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 107,
+        "cod": 1,
+        "ticketPromedioTotal": 4949.81,
+        "ticketPromedioCantItems": 2.61
+    },
+    {
+        "id": 1354,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3479,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 147346,
+                "porcentaje": 100,
+                "cantidadOperaciones": 53,
+                "fecha": 1699228800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5894,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 146846,
+                "porcentaje": 99.66,
+                "cantidadOperaciones": 0,
+                "fecha": 1699228800000
+            },
+            {
+                "id": 5895,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 500,
+                "porcentaje": 0.34,
+                "cantidadOperaciones": 0,
+                "fecha": 1699228800000
+            }
+        ],
+        "fecha": "06/11/2023 00:00:00",
+        "totalVentaConIva": 147346,
+        "totalVentaSinIva": 121772.83,
+        "cantUnidadesVendidas": 93,
+        "cantkgVendidos": 9.3,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 53,
+        "cod": 2,
+        "ticketPromedioTotal": 2780.11,
+        "ticketPromedioCantItems": 1.79
+    },
+    {
+        "id": 1355,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3480,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 543414,
+                "porcentaje": 98.98,
+                "cantidadOperaciones": 96,
+                "fecha": 1699315200000
+            },
+            {
+                "id": 3481,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 5610,
+                "porcentaje": 1.02,
+                "cantidadOperaciones": 1,
+                "fecha": 1699315200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5896,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 65545,
+                "porcentaje": 11.94,
+                "cantidadOperaciones": 0,
+                "fecha": 1699315200000
+            },
+            {
+                "id": 5897,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 268833.99,
+                "porcentaje": 48.97,
+                "cantidadOperaciones": 0,
+                "fecha": 1699315200000
+            },
+            {
+                "id": 5898,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 68745,
+                "porcentaje": 12.52,
+                "cantidadOperaciones": 0,
+                "fecha": 1699315200000
+            },
+            {
+                "id": 5899,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 145900,
+                "porcentaje": 26.57,
+                "cantidadOperaciones": 0,
+                "fecha": 1699315200000
+            }
+        ],
+        "fecha": "07/11/2023 00:00:00",
+        "totalVentaConIva": 549024,
+        "totalVentaSinIva": 453740.09,
+        "cantUnidadesVendidas": 265,
+        "cantkgVendidos": 31.69,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 97,
+        "cod": 1,
+        "ticketPromedioTotal": 5660.04,
+        "ticketPromedioCantItems": 2.99
+    },
+    {
+        "id": 1356,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3482,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 184738.02,
+                "porcentaje": 100,
+                "cantidadOperaciones": 52,
+                "fecha": 1699315200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5900,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 184738.02,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699315200000
+            }
+        ],
+        "fecha": "07/11/2023 00:00:00",
+        "totalVentaConIva": 184738.02,
+        "totalVentaSinIva": 152676.69,
+        "cantUnidadesVendidas": 108,
+        "cantkgVendidos": 13.36,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 52,
+        "cod": 2,
+        "ticketPromedioTotal": 3552.65,
+        "ticketPromedioCantItems": 2.31
+    },
+    {
+        "id": 1357,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3483,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 701647.03,
+                "porcentaje": 99.59,
+                "cantidadOperaciones": 117,
+                "fecha": 1699401600000
+            },
+            {
+                "id": 3484,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 2915,
+                "porcentaje": 0.41,
+                "cantidadOperaciones": 1,
+                "fecha": 1699401600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5901,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 49543,
+                "porcentaje": 7.03,
+                "cantidadOperaciones": 0,
+                "fecha": 1699401600000
+            },
+            {
+                "id": 5902,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 352803.05,
+                "porcentaje": 50.07,
+                "cantidadOperaciones": 0,
+                "fecha": 1699401600000
+            },
+            {
+                "id": 5903,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 120845,
+                "porcentaje": 17.15,
+                "cantidadOperaciones": 0,
+                "fecha": 1699401600000
+            },
+            {
+                "id": 5904,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 181370.98,
+                "porcentaje": 25.74,
+                "cantidadOperaciones": 0,
+                "fecha": 1699401600000
+            }
+        ],
+        "fecha": "08/11/2023 00:00:00",
+        "totalVentaConIva": 704562.03,
+        "totalVentaSinIva": 582284.06,
+        "cantUnidadesVendidas": 345,
+        "cantkgVendidos": 41.36,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 118,
+        "cod": 1,
+        "ticketPromedioTotal": 5970.86,
+        "ticketPromedioCantItems": 3.06
+    },
+    {
+        "id": 1358,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3485,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 171900.03,
+                "porcentaje": 100,
+                "cantidadOperaciones": 64,
+                "fecha": 1699401600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5905,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 171900.03,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699401600000
+            }
+        ],
+        "fecha": "08/11/2023 00:00:00",
+        "totalVentaConIva": 171900.03,
+        "totalVentaSinIva": 142066.02,
+        "cantUnidadesVendidas": 98,
+        "cantkgVendidos": 13.39,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 64,
+        "cod": 2,
+        "ticketPromedioTotal": 2685.94,
+        "ticketPromedioCantItems": 1.84
+    },
+    {
+        "id": 1359,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3486,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 646225.04,
+                "porcentaje": 96.73,
+                "cantidadOperaciones": 111,
+                "fecha": 1699488000000
+            },
+            {
+                "id": 3487,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 21840,
+                "porcentaje": 3.27,
+                "cantidadOperaciones": 1,
+                "fecha": 1699488000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5906,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 1200,
+                "porcentaje": 0.18,
+                "cantidadOperaciones": 0,
+                "fecha": 1699488000000
+            },
+            {
+                "id": 5907,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 319365.04,
+                "porcentaje": 47.8,
+                "cantidadOperaciones": 0,
+                "fecha": 1699488000000
+            },
+            {
+                "id": 5908,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 173925,
+                "porcentaje": 26.03,
+                "cantidadOperaciones": 0,
+                "fecha": 1699488000000
+            },
+            {
+                "id": 5909,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 173575,
+                "porcentaje": 25.98,
+                "cantidadOperaciones": 0,
+                "fecha": 1699488000000
+            }
+        ],
+        "fecha": "09/11/2023 00:00:00",
+        "totalVentaConIva": 668065.04,
+        "totalVentaSinIva": 552120.87,
+        "cantUnidadesVendidas": 327,
+        "cantkgVendidos": 29.32,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 112,
+        "cod": 1,
+        "ticketPromedioTotal": 5964.87,
+        "ticketPromedioCantItems": 3.08
+    },
+    {
+        "id": 1360,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3488,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 191965,
+                "porcentaje": 100,
+                "cantidadOperaciones": 66,
+                "fecha": 1699488000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5910,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 191965,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699488000000
+            }
+        ],
+        "fecha": "09/11/2023 00:00:00",
+        "totalVentaConIva": 191965,
+        "totalVentaSinIva": 158653.78,
+        "cantUnidadesVendidas": 95,
+        "cantkgVendidos": 13.91,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 66,
+        "cod": 2,
+        "ticketPromedioTotal": 2908.56,
+        "ticketPromedioCantItems": 1.8
+    },
+    {
+        "id": 1361,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3489,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 381309.96,
+                "porcentaje": 97.21,
+                "cantidadOperaciones": 68,
+                "fecha": 1699574400000
+            },
+            {
+                "id": 3490,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 10940,
+                "porcentaje": 2.79,
+                "cantidadOperaciones": 2,
+                "fecha": 1699574400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5911,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 64945,
+                "porcentaje": 16.56,
+                "cantidadOperaciones": 0,
+                "fecha": 1699574400000
+            },
+            {
+                "id": 5912,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 187676.97,
+                "porcentaje": 47.85,
+                "cantidadOperaciones": 0,
+                "fecha": 1699574400000
+            },
+            {
+                "id": 5913,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 56977.99,
+                "porcentaje": 14.53,
+                "cantidadOperaciones": 0,
+                "fecha": 1699574400000
+            },
+            {
+                "id": 5914,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 82650,
+                "porcentaje": 21.07,
+                "cantidadOperaciones": 0,
+                "fecha": 1699574400000
+            }
+        ],
+        "fecha": "10/11/2023 00:00:00",
+        "totalVentaConIva": 392249.96,
+        "totalVentaSinIva": 324174.1,
+        "cantUnidadesVendidas": 213,
+        "cantkgVendidos": 16.41,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 70,
+        "cod": 1,
+        "ticketPromedioTotal": 5603.57,
+        "ticketPromedioCantItems": 3.16
+    },
+    {
+        "id": 1362,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3491,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 164861.2,
+                "porcentaje": 100,
+                "cantidadOperaciones": 48,
+                "fecha": 1699574400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5915,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 164861.2,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699574400000
+            }
+        ],
+        "fecha": "10/11/2023 00:00:00",
+        "totalVentaConIva": 164861.2,
+        "totalVentaSinIva": 136248.85,
+        "cantUnidadesVendidas": 121,
+        "cantkgVendidos": 7.7,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 48,
+        "cod": 2,
+        "ticketPromedioTotal": 3434.61,
+        "ticketPromedioCantItems": 2.29
+    },
+    {
+        "id": 1363,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3492,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 741558.3,
+                "porcentaje": 100,
+                "cantidadOperaciones": 99,
+                "fecha": 1699660800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5916,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 40145,
+                "porcentaje": 5.41,
+                "cantidadOperaciones": 0,
+                "fecha": 1699660800000
+            },
+            {
+                "id": 5917,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 411931,
+                "porcentaje": 55.55,
+                "cantidadOperaciones": 0,
+                "fecha": 1699660800000
+            },
+            {
+                "id": 5918,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 158092.3,
+                "porcentaje": 21.32,
+                "cantidadOperaciones": 0,
+                "fecha": 1699660800000
+            },
+            {
+                "id": 5919,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 131390,
+                "porcentaje": 17.72,
+                "cantidadOperaciones": 0,
+                "fecha": 1699660800000
+            }
+        ],
+        "fecha": "11/11/2023 00:00:00",
+        "totalVentaConIva": 741558.3,
+        "totalVentaSinIva": 612859.9,
+        "cantUnidadesVendidas": 367,
+        "cantkgVendidos": 34.63,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 99,
+        "cod": 1,
+        "ticketPromedioTotal": 7490.49,
+        "ticketPromedioCantItems": 3.6
+    },
+    {
+        "id": 1364,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3493,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 170892.01,
+                "porcentaje": 100,
+                "cantidadOperaciones": 54,
+                "fecha": 1699660800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5920,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 170892,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699660800000
+            }
+        ],
+        "fecha": "11/11/2023 00:00:00",
+        "totalVentaConIva": 170892.01,
+        "totalVentaSinIva": 141232.99,
+        "cantUnidadesVendidas": 83,
+        "cantkgVendidos": 15.83,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 54,
+        "cod": 2,
+        "ticketPromedioTotal": 3164.67,
+        "ticketPromedioCantItems": 1.96
+    },
+    {
+        "id": 1365,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3494,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 377760.25,
+                "porcentaje": 92.06,
+                "cantidadOperaciones": 69,
+                "fecha": 1699747200000
+            },
+            {
+                "id": 3495,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 32565,
+                "porcentaje": 7.94,
+                "cantidadOperaciones": 2,
+                "fecha": 1699747200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5921,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 74904,
+                "porcentaje": 18.25,
+                "cantidadOperaciones": 0,
+                "fecha": 1699747200000
+            },
+            {
+                "id": 5922,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 163383,
+                "porcentaje": 39.82,
+                "cantidadOperaciones": 0,
+                "fecha": 1699747200000
+            },
+            {
+                "id": 5923,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 63260.24,
+                "porcentaje": 15.42,
+                "cantidadOperaciones": 0,
+                "fecha": 1699747200000
+            },
+            {
+                "id": 5924,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 108778,
+                "porcentaje": 26.51,
+                "cantidadOperaciones": 0,
+                "fecha": 1699747200000
+            }
+        ],
+        "fecha": "12/11/2023 00:00:00",
+        "totalVentaConIva": 410325.25,
+        "totalVentaSinIva": 339110.5,
+        "cantUnidadesVendidas": 190,
+        "cantkgVendidos": 19.17,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 71,
+        "cod": 1,
+        "ticketPromedioTotal": 5779.23,
+        "ticketPromedioCantItems": 2.99
+    },
+    {
+        "id": 1366,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3496,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 99830.74,
+                "porcentaje": 100,
+                "cantidadOperaciones": 29,
+                "fecha": 1699747200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5925,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 99830.75,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699747200000
+            }
+        ],
+        "fecha": "12/11/2023 00:00:00",
+        "totalVentaConIva": 99830.74,
+        "totalVentaSinIva": 82504.76,
+        "cantUnidadesVendidas": 69,
+        "cantkgVendidos": 6.57,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 29,
+        "cod": 2,
+        "ticketPromedioTotal": 3442.44,
+        "ticketPromedioCantItems": 2.41
+    },
+    {
+        "id": 1367,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3497,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 605830,
+                "porcentaje": 98.14,
+                "cantidadOperaciones": 101,
+                "fecha": 1699833600000
+            },
+            {
+                "id": 3498,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 11490,
+                "porcentaje": 1.86,
+                "cantidadOperaciones": 1,
+                "fecha": 1699833600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5926,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 88507,
+                "porcentaje": 14.34,
+                "cantidadOperaciones": 0,
+                "fecha": 1699833600000
+            },
+            {
+                "id": 5927,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 258611,
+                "porcentaje": 41.89,
+                "cantidadOperaciones": 0,
+                "fecha": 1699833600000
+            },
+            {
+                "id": 5928,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 173027.01,
+                "porcentaje": 28.03,
+                "cantidadOperaciones": 0,
+                "fecha": 1699833600000
+            },
+            {
+                "id": 5929,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 97174.99,
+                "porcentaje": 15.74,
+                "cantidadOperaciones": 0,
+                "fecha": 1699833600000
+            }
+        ],
+        "fecha": "13/11/2023 00:00:00",
+        "totalVentaConIva": 617320,
+        "totalVentaSinIva": 510182.14,
+        "cantUnidadesVendidas": 283,
+        "cantkgVendidos": 38.7,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 102,
+        "cod": 1,
+        "ticketPromedioTotal": 6052.16,
+        "ticketPromedioCantItems": 3.05
+    },
+    {
+        "id": 1368,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3499,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 194851,
+                "porcentaje": 100,
+                "cantidadOperaciones": 70,
+                "fecha": 1699833600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5930,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 194851,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699833600000
+            }
+        ],
+        "fecha": "13/11/2023 00:00:00",
+        "totalVentaConIva": 194851,
+        "totalVentaSinIva": 161034.7,
+        "cantUnidadesVendidas": 111,
+        "cantkgVendidos": 14.5,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 70,
+        "cod": 2,
+        "ticketPromedioTotal": 2783.59,
+        "ticketPromedioCantItems": 1.71
+    },
+    {
+        "id": 1369,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3500,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 611044.47,
+                "porcentaje": 100,
+                "cantidadOperaciones": 106,
+                "fecha": 1699920000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5931,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 71635,
+                "porcentaje": 11.72,
+                "cantidadOperaciones": 0,
+                "fecha": 1699920000000
+            },
+            {
+                "id": 5932,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 257098.98,
+                "porcentaje": 42.08,
+                "cantidadOperaciones": 0,
+                "fecha": 1699920000000
+            },
+            {
+                "id": 5933,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 187563,
+                "porcentaje": 30.7,
+                "cantidadOperaciones": 0,
+                "fecha": 1699920000000
+            },
+            {
+                "id": 5934,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 94747.5,
+                "porcentaje": 15.51,
+                "cantidadOperaciones": 0,
+                "fecha": 1699920000000
+            }
+        ],
+        "fecha": "14/11/2023 00:00:00",
+        "totalVentaConIva": 611044.47,
+        "totalVentaSinIva": 504993.58,
+        "cantUnidadesVendidas": 324,
+        "cantkgVendidos": 42.59,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 106,
+        "cod": 1,
+        "ticketPromedioTotal": 5764.57,
+        "ticketPromedioCantItems": 2.97
+    },
+    {
+        "id": 1370,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3501,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 184010.54,
+                "porcentaje": 100,
+                "cantidadOperaciones": 58,
+                "fecha": 1699920000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5935,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 184010.54,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1699920000000
+            }
+        ],
+        "fecha": "14/11/2023 00:00:00",
+        "totalVentaConIva": 184010.54,
+        "totalVentaSinIva": 152074.15,
+        "cantUnidadesVendidas": 96,
+        "cantkgVendidos": 12.84,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 58,
+        "cod": 2,
+        "ticketPromedioTotal": 3172.6,
+        "ticketPromedioCantItems": 1.84
+    },
+    {
+        "id": 1371,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3502,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 417649.99,
+                "porcentaje": 99.8,
+                "cantidadOperaciones": 81,
+                "fecha": 1700006400000
+            },
+            {
+                "id": 3503,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 850,
+                "porcentaje": 0.2,
+                "cantidadOperaciones": 1,
+                "fecha": 1700006400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5936,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 9330,
+                "porcentaje": 2.23,
+                "cantidadOperaciones": 0,
+                "fecha": 1700006400000
+            },
+            {
+                "id": 5937,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 188135,
+                "porcentaje": 44.95,
+                "cantidadOperaciones": 0,
+                "fecha": 1700006400000
+            },
+            {
+                "id": 5938,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 94175.99,
+                "porcentaje": 22.5,
+                "cantidadOperaciones": 0,
+                "fecha": 1700006400000
+            },
+            {
+                "id": 5939,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 126859,
+                "porcentaje": 30.31,
+                "cantidadOperaciones": 0,
+                "fecha": 1700006400000
+            }
+        ],
+        "fecha": "15/11/2023 00:00:00",
+        "totalVentaConIva": 418499.99,
+        "totalVentaSinIva": 345867.41,
+        "cantUnidadesVendidas": 193,
+        "cantkgVendidos": 24.75,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 82,
+        "cod": 1,
+        "ticketPromedioTotal": 5103.66,
+        "ticketPromedioCantItems": 2.72
+    },
+    {
+        "id": 1372,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3504,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 150355,
+                "porcentaje": 100,
+                "cantidadOperaciones": 47,
+                "fecha": 1700006400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5940,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 142510,
+                "porcentaje": 94.78,
+                "cantidadOperaciones": 0,
+                "fecha": 1700006400000
+            },
+            {
+                "id": 5941,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 7845,
+                "porcentaje": 5.22,
+                "cantidadOperaciones": 0,
+                "fecha": 1700006400000
+            }
+        ],
+        "fecha": "15/11/2023 00:00:00",
+        "totalVentaConIva": 150355,
+        "totalVentaSinIva": 124260.47,
+        "cantUnidadesVendidas": 66,
+        "cantkgVendidos": 17.21,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 47,
+        "cod": 2,
+        "ticketPromedioTotal": 3199.04,
+        "ticketPromedioCantItems": 2.04
+    },
+    {
+        "id": 1373,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3505,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 635693.48,
+                "porcentaje": 98.05,
+                "cantidadOperaciones": 100,
+                "fecha": 1700092800000
+            },
+            {
+                "id": 3506,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 12620,
+                "porcentaje": 1.95,
+                "cantidadOperaciones": 1,
+                "fecha": 1700092800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5942,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 19690,
+                "porcentaje": 3.04,
+                "cantidadOperaciones": 0,
+                "fecha": 1700092800000
+            },
+            {
+                "id": 5943,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 275152.49,
+                "porcentaje": 42.44,
+                "cantidadOperaciones": 0,
+                "fecha": 1700092800000
+            },
+            {
+                "id": 5944,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 158525.99,
+                "porcentaje": 24.45,
+                "cantidadOperaciones": 0,
+                "fecha": 1700092800000
+            },
+            {
+                "id": 5945,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 194945,
+                "porcentaje": 30.07,
+                "cantidadOperaciones": 0,
+                "fecha": 1700092800000
+            }
+        ],
+        "fecha": "16/11/2023 00:00:00",
+        "totalVentaConIva": 648313.48,
+        "totalVentaSinIva": 535796.52,
+        "cantUnidadesVendidas": 309,
+        "cantkgVendidos": 37.75,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 101,
+        "cod": 1,
+        "ticketPromedioTotal": 6418.95,
+        "ticketPromedioCantItems": 3.23
+    },
+    {
+        "id": 1374,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3507,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 177946.24,
+                "porcentaje": 100,
+                "cantidadOperaciones": 52,
+                "fecha": 1700092800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5946,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 169946.24,
+                "porcentaje": 95.5,
+                "cantidadOperaciones": 0,
+                "fecha": 1700092800000
+            },
+            {
+                "id": 5947,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 8000,
+                "porcentaje": 4.5,
+                "cantidadOperaciones": 0,
+                "fecha": 1700092800000
+            }
+        ],
+        "fecha": "16/11/2023 00:00:00",
+        "totalVentaConIva": 177946.24,
+        "totalVentaSinIva": 147063.55,
+        "cantUnidadesVendidas": 123,
+        "cantkgVendidos": 17.2,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 52,
+        "cod": 2,
+        "ticketPromedioTotal": 3422.04,
+        "ticketPromedioCantItems": 2.08
+    },
+    {
+        "id": 1375,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3508,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 583754.99,
+                "porcentaje": 97.98,
+                "cantidadOperaciones": 93,
+                "fecha": 1700179200000
+            },
+            {
+                "id": 3509,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 12010,
+                "porcentaje": 2.02,
+                "cantidadOperaciones": 3,
+                "fecha": 1700179200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5948,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 51405,
+                "porcentaje": 8.63,
+                "cantidadOperaciones": 0,
+                "fecha": 1700179200000
+            },
+            {
+                "id": 5949,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 236765.99,
+                "porcentaje": 39.74,
+                "cantidadOperaciones": 0,
+                "fecha": 1700179200000
+            },
+            {
+                "id": 5950,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 165991,
+                "porcentaje": 27.86,
+                "cantidadOperaciones": 0,
+                "fecha": 1700179200000
+            },
+            {
+                "id": 5951,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 141603,
+                "porcentaje": 23.77,
+                "cantidadOperaciones": 0,
+                "fecha": 1700179200000
+            }
+        ],
+        "fecha": "17/11/2023 00:00:00",
+        "totalVentaConIva": 595764.99,
+        "totalVentaSinIva": 492366.95,
+        "cantUnidadesVendidas": 270,
+        "cantkgVendidos": 37.99,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 96,
+        "cod": 1,
+        "ticketPromedioTotal": 6205.89,
+        "ticketPromedioCantItems": 3.17
+    },
+    {
+        "id": 1376,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3510,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 153369.25,
+                "porcentaje": 100,
+                "cantidadOperaciones": 61,
+                "fecha": 1700179200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5952,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 153369.25,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1700179200000
+            }
+        ],
+        "fecha": "17/11/2023 00:00:00",
+        "totalVentaConIva": 153369.25,
+        "totalVentaSinIva": 126751,
+        "cantUnidadesVendidas": 95,
+        "cantkgVendidos": 13.94,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 61,
+        "cod": 2,
+        "ticketPromedioTotal": 2514.25,
+        "ticketPromedioCantItems": 1.77
+    },
+    {
+        "id": 1377,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3511,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 851204.8,
+                "porcentaje": 90.59,
+                "cantidadOperaciones": 114,
+                "fecha": 1700265600000
+            },
+            {
+                "id": 3512,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 88417.5,
+                "porcentaje": 9.41,
+                "cantidadOperaciones": 3,
+                "fecha": 1700265600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5953,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 9270,
+                "porcentaje": 0.99,
+                "cantidadOperaciones": 0,
+                "fecha": 1700265600000
+            },
+            {
+                "id": 5954,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 321056.98,
+                "porcentaje": 34.17,
+                "cantidadOperaciones": 0,
+                "fecha": 1700265600000
+            },
+            {
+                "id": 5955,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 419692.31,
+                "porcentaje": 44.67,
+                "cantidadOperaciones": 0,
+                "fecha": 1700265600000
+            },
+            {
+                "id": 5956,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 189603,
+                "porcentaje": 20.18,
+                "cantidadOperaciones": 0,
+                "fecha": 1700265600000
+            }
+        ],
+        "fecha": "18/11/2023 00:00:00",
+        "totalVentaConIva": 939622.3,
+        "totalVentaSinIva": 776544.13,
+        "cantUnidadesVendidas": 397,
+        "cantkgVendidos": 49.26,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 117,
+        "cod": 1,
+        "ticketPromedioTotal": 8030.96,
+        "ticketPromedioCantItems": 3.56
+    },
+    {
+        "id": 1378,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3513,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 147949,
+                "porcentaje": 100,
+                "cantidadOperaciones": 53,
+                "fecha": 1700265600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5957,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 147949,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1700265600000
+            }
+        ],
+        "fecha": "18/11/2023 00:00:00",
+        "totalVentaConIva": 147949,
+        "totalVentaSinIva": 122272.56,
+        "cantUnidadesVendidas": 97,
+        "cantkgVendidos": 9.85,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 53,
+        "cod": 2,
+        "ticketPromedioTotal": 2791.49,
+        "ticketPromedioCantItems": 1.98
+    },
+    {
+        "id": 1379,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3514,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 334215,
+                "porcentaje": 99.03,
+                "cantidadOperaciones": 63,
+                "fecha": 1700352000000
+            },
+            {
+                "id": 3515,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 3270,
+                "porcentaje": 0.97,
+                "cantidadOperaciones": 1,
+                "fecha": 1700352000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5958,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 12420,
+                "porcentaje": 3.68,
+                "cantidadOperaciones": 0,
+                "fecha": 1700352000000
+            },
+            {
+                "id": 5959,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 186005,
+                "porcentaje": 55.12,
+                "cantidadOperaciones": 0,
+                "fecha": 1700352000000
+            },
+            {
+                "id": 5960,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 91285,
+                "porcentaje": 27.05,
+                "cantidadOperaciones": 0,
+                "fecha": 1700352000000
+            },
+            {
+                "id": 5961,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 47775,
+                "porcentaje": 14.16,
+                "cantidadOperaciones": 0,
+                "fecha": 1700352000000
+            }
+        ],
+        "fecha": "19/11/2023 00:00:00",
+        "totalVentaConIva": 337485,
+        "totalVentaSinIva": 278912.57,
+        "cantUnidadesVendidas": 193,
+        "cantkgVendidos": 18.62,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 64,
+        "cod": 1,
+        "ticketPromedioTotal": 5273.2,
+        "ticketPromedioCantItems": 3.19
+    },
+    {
+        "id": 1380,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3516,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 98435.5,
+                "porcentaje": 100,
+                "cantidadOperaciones": 34,
+                "fecha": 1700352000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5962,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 98435.5,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1700352000000
+            }
+        ],
+        "fecha": "19/11/2023 00:00:00",
+        "totalVentaConIva": 98435.5,
+        "totalVentaSinIva": 81352.42,
+        "cantUnidadesVendidas": 57,
+        "cantkgVendidos": 5.2,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 34,
+        "cod": 2,
+        "ticketPromedioTotal": 2895.16,
+        "ticketPromedioCantItems": 1.85
+    },
+    {
+        "id": 1381,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3517,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 303261.51,
+                "porcentaje": 98.2,
+                "cantidadOperaciones": 61,
+                "fecha": 1700438400000
+            },
+            {
+                "id": 3518,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 5560,
+                "porcentaje": 1.8,
+                "cantidadOperaciones": 1,
+                "fecha": 1700438400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5963,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 35030,
+                "porcentaje": 11.34,
+                "cantidadOperaciones": 0,
+                "fecha": 1700438400000
+            },
+            {
+                "id": 5964,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 102952,
+                "porcentaje": 33.34,
+                "cantidadOperaciones": 0,
+                "fecha": 1700438400000
+            },
+            {
+                "id": 5965,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 94311.51,
+                "porcentaje": 30.54,
+                "cantidadOperaciones": 0,
+                "fecha": 1700438400000
+            },
+            {
+                "id": 5966,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 76528,
+                "porcentaje": 24.78,
+                "cantidadOperaciones": 0,
+                "fecha": 1700438400000
+            }
+        ],
+        "fecha": "20/11/2023 00:00:00",
+        "totalVentaConIva": 308821.51,
+        "totalVentaSinIva": 255223.35,
+        "cantUnidadesVendidas": 168,
+        "cantkgVendidos": 14.88,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 62,
+        "cod": 1,
+        "ticketPromedioTotal": 4980.99,
+        "ticketPromedioCantItems": 2.82
+    },
+    {
+        "id": 1382,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3519,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 117025.24,
+                "porcentaje": 100,
+                "cantidadOperaciones": 38,
+                "fecha": 1700438400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5967,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 117025.24,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1700438400000
+            }
+        ],
+        "fecha": "20/11/2023 00:00:00",
+        "totalVentaConIva": 117025.24,
+        "totalVentaSinIva": 96715.12,
+        "cantUnidadesVendidas": 60,
+        "cantkgVendidos": 9.5,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 38,
+        "cod": 2,
+        "ticketPromedioTotal": 3079.61,
+        "ticketPromedioCantItems": 2
+    },
+    {
+        "id": 1383,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3520,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 758860.73,
+                "porcentaje": 98.94,
+                "cantidadOperaciones": 98,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 3521,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 8110,
+                "porcentaje": 1.06,
+                "cantidadOperaciones": 2,
+                "fecha": 1700524800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5968,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 49355,
+                "porcentaje": 6.44,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 5969,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 316230.97,
+                "porcentaje": 41.23,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 5970,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 244070,
+                "porcentaje": 31.82,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 5971,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 157314.76,
+                "porcentaje": 20.51,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            }
+        ],
+        "fecha": "21/11/2023 00:00:00",
+        "totalVentaConIva": 766970.73,
+        "totalVentaSinIva": 633860.17,
+        "cantUnidadesVendidas": 272,
+        "cantkgVendidos": 39.55,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 100,
+        "cod": 1,
+        "ticketPromedioTotal": 7669.71,
+        "ticketPromedioCantItems": 3.18
+    },
+    {
+        "id": 1384,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3522,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 262194.45,
+                "porcentaje": 100,
+                "cantidadOperaciones": 58,
+                "fecha": 1700524800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5972,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 142969.49,
+                "porcentaje": 54.53,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 5973,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 26928.96,
+                "porcentaje": 10.27,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 5974,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 27405,
+                "porcentaje": 10.45,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            },
+            {
+                "id": 5975,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 64891,
+                "porcentaje": 24.75,
+                "cantidadOperaciones": 0,
+                "fecha": 1700524800000
+            }
+        ],
+        "fecha": "21/11/2023 00:00:00",
+        "totalVentaConIva": 262194.45,
+        "totalVentaSinIva": 216690.36,
+        "cantUnidadesVendidas": 117,
+        "cantkgVendidos": 12.67,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 58,
+        "cod": 2,
+        "ticketPromedioTotal": 4520.59,
+        "ticketPromedioCantItems": 2.28
+    },
+    {
+        "id": 1385,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3523,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 575559.86,
+                "porcentaje": 97.26,
+                "cantidadOperaciones": 95,
+                "fecha": 1700611200000
+            },
+            {
+                "id": 3524,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 16230,
+                "porcentaje": 2.74,
+                "cantidadOperaciones": 2,
+                "fecha": 1700611200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5976,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 8290,
+                "porcentaje": 1.4,
+                "cantidadOperaciones": 0,
+                "fecha": 1700611200000
+            },
+            {
+                "id": 5977,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 298382.93,
+                "porcentaje": 50.42,
+                "cantidadOperaciones": 0,
+                "fecha": 1700611200000
+            },
+            {
+                "id": 5978,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 143402.94,
+                "porcentaje": 24.23,
+                "cantidadOperaciones": 0,
+                "fecha": 1700611200000
+            },
+            {
+                "id": 5979,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 141714,
+                "porcentaje": 23.95,
+                "cantidadOperaciones": 0,
+                "fecha": 1700611200000
+            }
+        ],
+        "fecha": "22/11/2023 00:00:00",
+        "totalVentaConIva": 591789.86,
+        "totalVentaSinIva": 489083.07,
+        "cantUnidadesVendidas": 283,
+        "cantkgVendidos": 33.99,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 97,
+        "cod": 1,
+        "ticketPromedioTotal": 6100.93,
+        "ticketPromedioCantItems": 3.04
+    },
+    {
+        "id": 1386,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3525,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 184534.53,
+                "porcentaje": 100,
+                "cantidadOperaciones": 58,
+                "fecha": 1700611200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5980,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 184110.5,
+                "porcentaje": 99.77,
+                "cantidadOperaciones": 0,
+                "fecha": 1700611200000
+            },
+            {
+                "id": 5981,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 424,
+                "porcentaje": 0.23,
+                "cantidadOperaciones": 0,
+                "fecha": 1700611200000
+            }
+        ],
+        "fecha": "22/11/2023 00:00:00",
+        "totalVentaConIva": 184534.53,
+        "totalVentaSinIva": 152509.4,
+        "cantUnidadesVendidas": 104,
+        "cantkgVendidos": 10.56,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 58,
+        "cod": 2,
+        "ticketPromedioTotal": 3181.63,
+        "ticketPromedioCantItems": 1.84
+    },
+    {
+        "id": 1387,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3526,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 484488.02,
+                "porcentaje": 93.7,
+                "cantidadOperaciones": 92,
+                "fecha": 1700697600000
+            },
+            {
+                "id": 3527,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 32590,
+                "porcentaje": 6.3,
+                "cantidadOperaciones": 3,
+                "fecha": 1700697600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5982,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 14535,
+                "porcentaje": 2.81,
+                "cantidadOperaciones": 0,
+                "fecha": 1700697600000
+            },
+            {
+                "id": 5983,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 202698,
+                "porcentaje": 39.2,
+                "cantidadOperaciones": 0,
+                "fecha": 1700697600000
+            },
+            {
+                "id": 5984,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 134875,
+                "porcentaje": 26.08,
+                "cantidadOperaciones": 0,
+                "fecha": 1700697600000
+            },
+            {
+                "id": 5985,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 164970.02,
+                "porcentaje": 31.9,
+                "cantidadOperaciones": 0,
+                "fecha": 1700697600000
+            }
+        ],
+        "fecha": "23/11/2023 00:00:00",
+        "totalVentaConIva": 517078.02,
+        "totalVentaSinIva": 427337.41,
+        "cantUnidadesVendidas": 231,
+        "cantkgVendidos": 40.56,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 95,
+        "cod": 1,
+        "ticketPromedioTotal": 5442.93,
+        "ticketPromedioCantItems": 2.96
+    },
+    {
+        "id": 1388,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3528,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 169296.04,
+                "porcentaje": 100,
+                "cantidadOperaciones": 48,
+                "fecha": 1700697600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5986,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 168596.04,
+                "porcentaje": 99.59,
+                "cantidadOperaciones": 0,
+                "fecha": 1700697600000
+            },
+            {
+                "id": 5987,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 700,
+                "porcentaje": 0.41,
+                "cantidadOperaciones": 0,
+                "fecha": 1700697600000
+            }
+        ],
+        "fecha": "23/11/2023 00:00:00",
+        "totalVentaConIva": 169296.04,
+        "totalVentaSinIva": 139915.12,
+        "cantUnidadesVendidas": 80,
+        "cantkgVendidos": 8.51,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 48,
+        "cod": 2,
+        "ticketPromedioTotal": 3527,
+        "ticketPromedioCantItems": 1.92
+    },
+    {
+        "id": 1389,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3529,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 641715.99,
+                "porcentaje": 100,
+                "cantidadOperaciones": 111,
+                "fecha": 1700784000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5988,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 4000,
+                "porcentaje": 0.62,
+                "cantidadOperaciones": 0,
+                "fecha": 1700784000000
+            },
+            {
+                "id": 5989,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 357528,
+                "porcentaje": 55.71,
+                "cantidadOperaciones": 0,
+                "fecha": 1700784000000
+            },
+            {
+                "id": 5990,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 167272.99,
+                "porcentaje": 26.07,
+                "cantidadOperaciones": 0,
+                "fecha": 1700784000000
+            },
+            {
+                "id": 5991,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 112915,
+                "porcentaje": 17.6,
+                "cantidadOperaciones": 0,
+                "fecha": 1700784000000
+            }
+        ],
+        "fecha": "24/11/2023 00:00:00",
+        "totalVentaConIva": 641715.99,
+        "totalVentaSinIva": 530342.83,
+        "cantUnidadesVendidas": 306,
+        "cantkgVendidos": 33.65,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 111,
+        "cod": 1,
+        "ticketPromedioTotal": 5781.23,
+        "ticketPromedioCantItems": 2.95
+    },
+    {
+        "id": 1390,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3530,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 158740,
+                "porcentaje": 100,
+                "cantidadOperaciones": 65,
+                "fecha": 1700784000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5992,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 156890,
+                "porcentaje": 98.83,
+                "cantidadOperaciones": 0,
+                "fecha": 1700784000000
+            },
+            {
+                "id": 5993,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 1850,
+                "porcentaje": 1.17,
+                "cantidadOperaciones": 0,
+                "fecha": 1700784000000
+            }
+        ],
+        "fecha": "24/11/2023 00:00:00",
+        "totalVentaConIva": 158740,
+        "totalVentaSinIva": 131190.78,
+        "cantUnidadesVendidas": 85,
+        "cantkgVendidos": 12.15,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 65,
+        "cod": 2,
+        "ticketPromedioTotal": 2442.15,
+        "ticketPromedioCantItems": 1.55
+    },
+    {
+        "id": 1391,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3531,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 585262.96,
+                "porcentaje": 97.26,
+                "cantidadOperaciones": 100,
+                "fecha": 1700870400000
+            },
+            {
+                "id": 3532,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 16460,
+                "porcentaje": 2.74,
+                "cantidadOperaciones": 1,
+                "fecha": 1700870400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5994,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 30120,
+                "porcentaje": 5.01,
+                "cantidadOperaciones": 0,
+                "fecha": 1700870400000
+            },
+            {
+                "id": 5995,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 296011.99,
+                "porcentaje": 49.19,
+                "cantidadOperaciones": 0,
+                "fecha": 1700870400000
+            },
+            {
+                "id": 5996,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 134372.5,
+                "porcentaje": 22.33,
+                "cantidadOperaciones": 0,
+                "fecha": 1700870400000
+            },
+            {
+                "id": 5997,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 141218.46,
+                "porcentaje": 23.47,
+                "cantidadOperaciones": 0,
+                "fecha": 1700870400000
+            }
+        ],
+        "fecha": "25/11/2023 00:00:00",
+        "totalVentaConIva": 601722.96,
+        "totalVentaSinIva": 497291.54,
+        "cantUnidadesVendidas": 339,
+        "cantkgVendidos": 31.13,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 101,
+        "cod": 1,
+        "ticketPromedioTotal": 5957.65,
+        "ticketPromedioCantItems": 3.29
+    },
+    {
+        "id": 1392,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3533,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 183600.5,
+                "porcentaje": 100,
+                "cantidadOperaciones": 51,
+                "fecha": 1700870400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 5998,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 182100.5,
+                "porcentaje": 99.18,
+                "cantidadOperaciones": 0,
+                "fecha": 1700870400000
+            },
+            {
+                "id": 5999,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 1500,
+                "porcentaje": 0.82,
+                "cantidadOperaciones": 0,
+                "fecha": 1700870400000
+            }
+        ],
+        "fecha": "25/11/2023 00:00:00",
+        "totalVentaConIva": 183600.5,
+        "totalVentaSinIva": 151736.43,
+        "cantUnidadesVendidas": 91,
+        "cantkgVendidos": 11.15,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 51,
+        "cod": 2,
+        "ticketPromedioTotal": 3600.01,
+        "ticketPromedioCantItems": 1.98
+    },
+    {
+        "id": 1393,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3534,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 367276.98,
+                "porcentaje": 100,
+                "cantidadOperaciones": 55,
+                "fecha": 1700956800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6000,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 42993,
+                "porcentaje": 11.71,
+                "cantidadOperaciones": 0,
+                "fecha": 1700956800000
+            },
+            {
+                "id": 6001,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 113678,
+                "porcentaje": 30.95,
+                "cantidadOperaciones": 0,
+                "fecha": 1700956800000
+            },
+            {
+                "id": 6002,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 149075.99,
+                "porcentaje": 40.59,
+                "cantidadOperaciones": 0,
+                "fecha": 1700956800000
+            },
+            {
+                "id": 6003,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 61530,
+                "porcentaje": 16.75,
+                "cantidadOperaciones": 0,
+                "fecha": 1700956800000
+            }
+        ],
+        "fecha": "26/11/2023 00:00:00",
+        "totalVentaConIva": 367276.98,
+        "totalVentaSinIva": 303536.22,
+        "cantUnidadesVendidas": 173,
+        "cantkgVendidos": 15,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 55,
+        "cod": 1,
+        "ticketPromedioTotal": 6677.76,
+        "ticketPromedioCantItems": 3.38
+    },
+    {
+        "id": 1394,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3535,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 57283,
+                "porcentaje": 100,
+                "cantidadOperaciones": 23,
+                "fecha": 1700956800000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6004,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 57283,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1700956800000
+            }
+        ],
+        "fecha": "26/11/2023 00:00:00",
+        "totalVentaConIva": 57283,
+        "totalVentaSinIva": 47341.82,
+        "cantUnidadesVendidas": 32,
+        "cantkgVendidos": 4.4,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 23,
+        "cod": 2,
+        "ticketPromedioTotal": 2490.57,
+        "ticketPromedioCantItems": 1.78
+    },
+    {
+        "id": 1395,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3536,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 489708.98,
+                "porcentaje": 96.15,
+                "cantidadOperaciones": 91,
+                "fecha": 1701043200000
+            },
+            {
+                "id": 3537,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 19630,
+                "porcentaje": 3.85,
+                "cantidadOperaciones": 1,
+                "fecha": 1701043200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6005,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 3150,
+                "porcentaje": 0.62,
+                "cantidadOperaciones": 0,
+                "fecha": 1701043200000
+            },
+            {
+                "id": 6006,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 225920,
+                "porcentaje": 44.36,
+                "cantidadOperaciones": 0,
+                "fecha": 1701043200000
+            },
+            {
+                "id": 6007,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 136324,
+                "porcentaje": 26.76,
+                "cantidadOperaciones": 0,
+                "fecha": 1701043200000
+            },
+            {
+                "id": 6008,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 143944.97,
+                "porcentaje": 28.26,
+                "cantidadOperaciones": 0,
+                "fecha": 1701043200000
+            }
+        ],
+        "fecha": "27/11/2023 00:00:00",
+        "totalVentaConIva": 509338.98,
+        "totalVentaSinIva": 420942.49,
+        "cantUnidadesVendidas": 223,
+        "cantkgVendidos": 32.67,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 92,
+        "cod": 1,
+        "ticketPromedioTotal": 5536.29,
+        "ticketPromedioCantItems": 2.86
+    },
+    {
+        "id": 1396,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3538,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 169165,
+                "porcentaje": 100,
+                "cantidadOperaciones": 54,
+                "fecha": 1701043200000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6009,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 169165,
+                "porcentaje": 100,
+                "cantidadOperaciones": 0,
+                "fecha": 1701043200000
+            }
+        ],
+        "fecha": "27/11/2023 00:00:00",
+        "totalVentaConIva": 169165,
+        "totalVentaSinIva": 139804.84,
+        "cantUnidadesVendidas": 85,
+        "cantkgVendidos": 11.54,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 54,
+        "cod": 2,
+        "ticketPromedioTotal": 3132.69,
+        "ticketPromedioCantItems": 1.8
+    },
+    {
+        "id": 1397,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3539,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 514469,
+                "porcentaje": 100,
+                "cantidadOperaciones": 74,
+                "fecha": 1701129600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6010,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 9115,
+                "porcentaje": 1.77,
+                "cantidadOperaciones": 0,
+                "fecha": 1701129600000
+            },
+            {
+                "id": 6011,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 200705,
+                "porcentaje": 39.01,
+                "cantidadOperaciones": 0,
+                "fecha": 1701129600000
+            },
+            {
+                "id": 6012,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 159474.95,
+                "porcentaje": 31,
+                "cantidadOperaciones": 0,
+                "fecha": 1701129600000
+            },
+            {
+                "id": 6013,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 145174.06,
+                "porcentaje": 28.22,
+                "cantidadOperaciones": 0,
+                "fecha": 1701129600000
+            }
+        ],
+        "fecha": "28/11/2023 00:00:00",
+        "totalVentaConIva": 514469,
+        "totalVentaSinIva": 425181.82,
+        "cantUnidadesVendidas": 193,
+        "cantkgVendidos": 36.27,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 74,
+        "cod": 1,
+        "ticketPromedioTotal": 6952.28,
+        "ticketPromedioCantItems": 3.16
+    },
+    {
+        "id": 1398,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3540,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 186255,
+                "porcentaje": 100,
+                "cantidadOperaciones": 48,
+                "fecha": 1701129600000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6014,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 169407,
+                "porcentaje": 90.95,
+                "cantidadOperaciones": 0,
+                "fecha": 1701129600000
+            },
+            {
+                "id": 6015,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 16848,
+                "porcentaje": 9.05,
+                "cantidadOperaciones": 0,
+                "fecha": 1701129600000
+            }
+        ],
+        "fecha": "28/11/2023 00:00:00",
+        "totalVentaConIva": 186255,
+        "totalVentaSinIva": 153928.82,
+        "cantUnidadesVendidas": 70,
+        "cantkgVendidos": 11.26,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 48,
+        "cod": 2,
+        "ticketPromedioTotal": 3880.31,
+        "ticketPromedioCantItems": 2.04
+    },
+    {
+        "id": 1399,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3541,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 529529.98,
+                "porcentaje": 92.57,
+                "cantidadOperaciones": 96,
+                "fecha": 1701216000000
+            },
+            {
+                "id": 3542,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 42505,
+                "porcentaje": 7.43,
+                "cantidadOperaciones": 5,
+                "fecha": 1701216000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6016,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 52918,
+                "porcentaje": 9.25,
+                "cantidadOperaciones": 0,
+                "fecha": 1701216000000
+            },
+            {
+                "id": 6017,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 332181.97,
+                "porcentaje": 58.07,
+                "cantidadOperaciones": 0,
+                "fecha": 1701216000000
+            },
+            {
+                "id": 6018,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 109770,
+                "porcentaje": 19.19,
+                "cantidadOperaciones": 0,
+                "fecha": 1701216000000
+            },
+            {
+                "id": 6019,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 77165,
+                "porcentaje": 13.49,
+                "cantidadOperaciones": 0,
+                "fecha": 1701216000000
+            }
+        ],
+        "fecha": "29/11/2023 00:00:00",
+        "totalVentaConIva": 572034.97,
+        "totalVentaSinIva": 472757.69,
+        "cantUnidadesVendidas": 278,
+        "cantkgVendidos": 31.4,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 101,
+        "cod": 1,
+        "ticketPromedioTotal": 5663.71,
+        "ticketPromedioCantItems": 3.11
+    },
+    {
+        "id": 1400,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3543,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 136486.26,
+                "porcentaje": 100,
+                "cantidadOperaciones": 45,
+                "fecha": 1701216000000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6020,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 132976.26,
+                "porcentaje": 97.43,
+                "cantidadOperaciones": 0,
+                "fecha": 1701216000000
+            },
+            {
+                "id": 6021,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 3510,
+                "porcentaje": 2.57,
+                "cantidadOperaciones": 0,
+                "fecha": 1701216000000
+            }
+        ],
+        "fecha": "29/11/2023 00:00:00",
+        "totalVentaConIva": 136486.26,
+        "totalVentaSinIva": 112798.49,
+        "cantUnidadesVendidas": 68,
+        "cantkgVendidos": 15.31,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 45,
+        "cod": 2,
+        "ticketPromedioTotal": 3033.03,
+        "ticketPromedioCantItems": 2.2
+    },
+    {
+        "id": 1401,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3544,
+                "comprobante": {
+                    "id": 10,
+                    "nombre": "factura b",
+                    "codigo": "factura b"
+                },
+                "total": 504826.06,
+                "porcentaje": 99.1,
+                "cantidadOperaciones": 90,
+                "fecha": 1701302400000
+            },
+            {
+                "id": 3545,
+                "comprobante": {
+                    "id": 11,
+                    "nombre": "factura a",
+                    "codigo": "factura a"
+                },
+                "total": 4600,
+                "porcentaje": 0.9,
+                "cantidadOperaciones": 1,
+                "fecha": 1701302400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6022,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 29455,
+                "porcentaje": 5.78,
+                "cantidadOperaciones": 0,
+                "fecha": 1701302400000
+            },
+            {
+                "id": 6023,
+                "medioPago": {
+                    "id": 2,
+                    "nombre": "tarjeta de debito",
+                    "codigo": "300",
+                    "idSystem": 0
+                },
+                "total": 214740,
+                "porcentaje": 42.15,
+                "cantidadOperaciones": 0,
+                "fecha": 1701302400000
+            },
+            {
+                "id": 6024,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 112593,
+                "porcentaje": 22.1,
+                "cantidadOperaciones": 0,
+                "fecha": 1701302400000
+            },
+            {
+                "id": 6025,
+                "medioPago": {
+                    "id": 5,
+                    "nombre": "mercado pago",
+                    "codigo": "302",
+                    "idSystem": 0
+                },
+                "total": 152638.06,
+                "porcentaje": 29.96,
+                "cantidadOperaciones": 0,
+                "fecha": 1701302400000
+            }
+        ],
+        "fecha": "30/11/2023 00:00:00",
+        "totalVentaConIva": 509426.06,
+        "totalVentaSinIva": 421014,
+        "cantUnidadesVendidas": 274,
+        "cantkgVendidos": 26.08,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 91,
+        "cod": 1,
+        "ticketPromedioTotal": 5598.09,
+        "ticketPromedioCantItems": 3.02
+    },
+    {
+        "id": 1402,
+        "sucursal": null,
+        "comprobantesList": [
+            {
+                "id": 3546,
+                "comprobante": {
+                    "id": 9,
+                    "nombre": "remito x",
+                    "codigo": "factura c"
+                },
+                "total": 183476.74,
+                "porcentaje": 100,
+                "cantidadOperaciones": 50,
+                "fecha": 1701302400000
+            }
+        ],
+        "mediosPagosList": [
+            {
+                "id": 6026,
+                "medioPago": {
+                    "id": 1,
+                    "nombre": "efectivo",
+                    "codigo": "0",
+                    "idSystem": 0
+                },
+                "total": 167858.74,
+                "porcentaje": 91.49,
+                "cantidadOperaciones": 0,
+                "fecha": 1701302400000
+            },
+            {
+                "id": 6027,
+                "medioPago": {
+                    "id": 3,
+                    "nombre": "tarjeta de credito",
+                    "codigo": "301",
+                    "idSystem": 0
+                },
+                "total": 15618,
+                "porcentaje": 8.51,
+                "cantidadOperaciones": 0,
+                "fecha": 1701302400000
+            }
+        ],
+        "fecha": "30/11/2023 00:00:00",
+        "totalVentaConIva": 183476.74,
+        "totalVentaSinIva": 151632.91,
+        "cantUnidadesVendidas": 111,
+        "cantkgVendidos": 13.55,
+        "costoTotalSinIva": 0,
+        "costoTotalConIva": 0,
+        "cantVentas": 50,
+        "cod": 2,
+        "ticketPromedioTotal": 3669.53,
+        "ticketPromedioCantItems": 2.22
+    }
+]
