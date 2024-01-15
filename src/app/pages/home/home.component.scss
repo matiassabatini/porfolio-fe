@@ -1,7 +1,8 @@
 @import '/globalStyles';
 
 .card-principal{
-    background-color:rgba(255, 255, 255, 0.838) ;
+    background-color:$backgraudCads;
     box-shadow:$boxShadowBottom;
+    color:$fontColor;
     
 }
